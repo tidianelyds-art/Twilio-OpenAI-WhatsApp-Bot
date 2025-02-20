@@ -12,7 +12,7 @@ This repo contains code to build a chatbot in Python that runs in WhatsApp and a
 
 ## Getting Started
 
-To use this application, you will need to have API keys for OpenAI and Twilio, as well as NGROK for local testing. Once you have those, follow these steps:
+To get started, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
