@@ -16,7 +16,7 @@ To get started, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone git@github.com:Shakurova/Twilio-OpenAI-WhatsApp-Bot.git
+   git clone git@github.com:tidianelyds-art/Twilio-OpenAI-WhatsApp-Bot.git
    cd Twilio-OpenAI-WhatsApp-Bot/
    ```
 
